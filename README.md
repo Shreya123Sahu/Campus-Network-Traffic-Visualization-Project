@@ -26,10 +26,21 @@ Packet Flow Demonstration: Visualizes the journey of data packets as they move t
 
 Traffic Analysis: Utilizes a packet sniffer to capture and analyze the flow of data, providing insights into network performance and potential issues.
 
-## Screenshots 🖼️
-## Flow Chart ⏳
-
 Interactive Learning: Users can interact with the network topology to observe how different configurations impact packet transfer.
+
+## Screenshots 🖼️
+### Topology:
+![Screenshot 2024-06-26 224852](https://github.com/Pawanraj2004/Campus-Network-Traffic-Visualization-Project/assets/119615554/56f468e7-8b09-4475-ac1a-c77c3f34209a)
+
+### Output window:
+<br><img src="https://github.com/Pawanraj2004/Campus-Network-Traffic-Visualization-Project/assets/119615554/7d3eb70a-5828-4cdf-8d66-60f24d5e2f4b.png" width="450px" height="350">
+
+
+## Flow Chart ⏳
+![flowchart](https://github.com/Pawanraj2004/Campus-Network-Traffic-Visualization-Project/assets/119615554/6f1a40ea-041d-4412-8cfe-824dff1a21ca)
+
+
+
 ## Installation and Setup 🎬
 To get started with the Campus Network Traffic Visualizer, follow these steps:
 
